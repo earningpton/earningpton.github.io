@@ -4,25 +4,25 @@ title: Coursework
 permalink: /coursework/
 ---
 
-Here is *some* of the relevant coursework I've completed at Princeton University.  
+Below, I list some relevant coursework I've completed at Princeton University.  
 (Grad) denotes a graduate level course.
 ### Machine Learning/Statistics/Optimization
 
-ORF350: Applied Machine Learning Methods, Spring '17  
-ORF524 (grad): Mathematical Statistics, Fall '17  
-ELE538B (grad): Large-Scale Optimization for Data Sciences, Spring '18 (Final project [writeup][1], [presentation][2])  
-ORF525 (grad): Statistical Learning Theory, Spring '18  
-COS597G (grad): Foundations of Deep Learning Theory, Fall '18  
+ORF350: Applied Machine Learning Methods, Fall '17
+ELE435: Machine Learning and Pattern Recognition, Fall '18
+ELE480: fMRI Decoding: Reading Minds Using Brain Scans, Fall '18
+COS597C (Grad): Advanced Topics in Computer Science: Machine Learning for Health Care, Fall '18
+COS597E (Grad): Advanced Topics in Computer Science: Advanced Natural Language Processing, Fall '18
 
 ### Mathematics/Probability
 ORF309: Probability and Stochastic Systems, Fall '16  
-MAT320: Real Analysis and Measure Theory, Fall '17  
-ORF550 (grad): High Dimensional Probability, Fall '18  
+MAT378: Theory of Games, Spring '16 (also TA)
+ORF523(Grad): Convex and Conic Optimization, Spring '18 
 
-### Computer Science
-COS226: Algorithms and Data Structures, Fall '16  
-COS326: Functional Programming, Fall '16  
-COS217: Intro to Programming Systems, Spring '17  
+### Optimization
+ORF307: Optimization, Spring '17 
+ORF409: Introduction to Monte Carlo Simulation, Fall '17 
+ORF418: Optimal Learning, Spring '18
 
 
 [1]: {{site.url}}/pdfs/natasha.pdf
