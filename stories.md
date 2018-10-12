@@ -6,9 +6,9 @@ permalink:  /stories/
 
 ## Short stories
 
-[Birth of a Titan](https://houcharlie.github.io/stories/titan)   
-[MIXTHREE](https://houcharlie.github.io/stories/mixthree) 
+[Birth of a Titan]({{site.url}}/stories/titan) 
+[MIXTHREE]({{site.url}}/stories/mixthree) 
 
 ## The review club
-[The Review Club Chapter 1](https://houcharlie.github.io/stories/review1) 
+[The Review Club Chapter 1]({{site.url}}/stories/review1) 
 
