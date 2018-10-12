@@ -9,7 +9,7 @@ Here are some of the projects/research I've been involved in.
 ### Money Transferring Path Optimization: Multiple-layer Maximum Cycle Mean Problem with Activation Matrix  
 This project is advised by [Professor Amir Ali Ahmadi](http://aaa.princeton.edu/).  
 Our current research in graph theory is framed as a stochastic money-transfer route
-optimization problem based on the maximum mean cycle problem [MCMP)](http://web.mit.edu/~a_a_a/Public/Publications/AAA_PP_CDC2012.pdf). 
+optimization problem based on the maximum mean cycle problem [MCMP](http://web.mit.edu/~a_a_a/Public/Publications/AAA_PP_CDC2012.pdf). 
 
 We expect that this research will span over two semesters of my senior year and we hope to use convex optimization to approximate theoretical solution to the problem and recurrent neural network to reduce computation time while adding more complexity and richness to the model along with Markov model for checking purpose.  
 
