@@ -5,7 +5,7 @@ permalink:  /hobbies/
 ---
 
 ## Feature Length Film
-[MERGE (2015)](https://vimeo.com/161462112) 
+[MERGE (2015)](https://vimeo.com/161462112)  
 [MERGE's Trailer](https://vimeo.com/145584620)
 
 ## Food & Place Reviews
