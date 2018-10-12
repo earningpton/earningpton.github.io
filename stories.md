@@ -1,6 +1,6 @@
 ---
 layout:     page
-title:      Fiction
+title:      Hobbies
 permalink:  /stories/
 ---
 ## Food & Place Reviews
