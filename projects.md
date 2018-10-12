@@ -6,19 +6,27 @@ permalink: /projects/
 
 Here are some of the projects/research I've been involved in.
 
-### Interpolated peeling: new learning algorithms for vertex order recovery
+### Money Transferring Path Optimization: Multiple-layer Maximum Cycle Mean Problem with Activation Matrix  
+This project is advised by [Professor Amir Ali Ahmadi](http://aaa.princeton.edu/).  
+Our current research in graph theory is framed as a stochastic money-transfer route
+optimization problem based on the maximum mean cycle problem [MCMP)](http://web.mit.edu/~a_a_a/Public/Publications/AAA_PP_CDC2012.pdf). 
 
-This project is advised by [Professor Miklos Racz](http://mracz.princeton.edu/).  We
-want to give a more precise characterization of the algorithm proposed [here](https://pdfs.semanticscholar.org/043a/4b15b8f563002e1d1e3ee8dea5eed9aa26ca.pdf) for vertex order recovery in random graphs.  A report containing
-the progress we made in spring '18 is [here]({{site.url}}/pdfs/report.pdf), the code I used for the simulations is [here](https://github.com/houcharlie/peelingAnalysis) and a blog post giving a high level description is [here]({{site.url}}/blog/peeling.pdf).  The project is still ongoing, and we are excited about making more findings!
-
-
-### "Acceleration" via depth in neural networks
-
-Two of my friends, [Hrishikesh Khandeparkar](http://www.cs.princeton.edu/~hrk/index.html) and [Gene Li](https://gxli97.github.io/), and I worked on a project studying the effect of additional depth on deep learning as a follow-up to this [paper](https://arxiv.org/pdf/1802.06509.pdf).  The final report is [here]({{site.url}}/pdfs/depth-final-report.pdf).  We found that increasing depth in neural networks made the regularization loss decrease, but did not impact the "real loss".  We hypothesize this is because the (L2) regularization makes the loss surface behave more like an Lp surface.
+We expect that this research will span over two semesters of my senior year and we hope to use convex optimization to approximate theoretical solution to the problem and recurrent neural network to reduce computation time while adding more complexity and richness to the model along with Markov model for checking purpose.  
 
 
-### WallStreetBets
+### Policy Testing for Jet Engine’s Supply Chain 
 
-During HackPrinceton Fall '17, a few of my friends were working on implementing a trading idea that revolved around posts on a SubReddit called /r/WallStreetBets.  In the middle of their project, they asked me to whip up/implement a suitable ML algorithm for their strategy.  The results are in this [repository](https://github.com/houcharlie/WallStreetBets).  Surprisingly enough, it didn't do too badly in the time that we tested the strategy (the morning of presentations), managing to predict price direction better than 50% of the time.
+I have worked under Professor [Warren Powell](http://castlelab.princeton.edu/)'s supervision to implement a supply chain
+management simulation program in Python. The narrative is that the graph represents jet engine manufacturer's
+suppliers from leaf nodes to one root node with multiple tuning knobs.  
+I then coded a program to evaluate online learning policies for tuning these knobs to counter engine part shortages in cooperation with [
+Dionysios S. Kalogerias](https://dk9.mycpanel.princeton.edu/wordpress/) with the old open version can be found in this [github](https://github.com/dkalogerias/SupplyChain_Public). After policies evaluation, I made visual representations of the simulation that led to further cooperation with United Technologies. The final report is [here]({{site.url}}/pdfs/supply_chain-final-report.pdf)  
+
+### Analysis of rank 1 perturbations in general β ensembles
+
+I work with Professor [Adam W. Marcus](https://web.math.princeton.edu/~amarcus/) under Princeton University mathematics department's
+grant. The research topic is random matrices theory, specifically on analysis of rank 1 perturbations in general beta
+ensembles. The research spanned over two months with a paper currently pending publishing once the over-arching
+narrative is completed. The paper can be found [here](https://web.math.princeton.edu/~amarcus/papers/beta.pdf)
+
 
