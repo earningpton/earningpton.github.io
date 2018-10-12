@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-<img style="float:right;margin:10px;" src="{{site.url}}/images/earning.jpg" width="150" alt="earning">
+<img style="float:right;margin:10px;" src="{{site.url}}/images/earning.jpg" width="150" alt="charlie">
 
 Welcome to my website!  
 
