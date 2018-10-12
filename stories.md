@@ -6,7 +6,7 @@ permalink:  /stories/
 
 ## Short stories
 
-[Birth of a Titan]({{site.url}}/stories/titan) 
+[Birth of a Titan]({{site.url}}/stories/titan)  
 [MIXTHREE]({{site.url}}/stories/mixthree) 
 
 ## The review club
