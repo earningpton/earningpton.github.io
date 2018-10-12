@@ -3,22 +3,21 @@ layout: page
 title: Home
 ---
 
-<img style="float:right;margin:10px;" src="{{site.url}}/images/charliehou.jpg" width="150" alt="charlie">
+<img style="float:right;margin:10px;" src="{{site.url}}/images/earning.jpg" width="150" alt="earning">
 
-Hi!  I'm currently a senior at the Operations Research and Financial Engineering department of Princeton University.
-At Princeton, I am working on separate research projects advised by [Yuxin Chen](http://www.princeton.edu/~yc5/) and [Miklos Racz](http://mracz.princeton.edu/).  My interests include optimization, control/reinforcement learning,
-random graphs, and statistical inference.  
+Welcome to my website!  My name is Woramanot Yomjinda but please call me by my nickname Earning. I am currently a senior at the Operations Research and Financial Engineering department of Princeton University.  
+At Princeton, I am working on research projects advised by [Amir Ali Ahmadi](http://aaa.princeton.edu/) and, for independent work, [Warren Powell](http://castlelab.princeton.edu/).  My main interests include natural language processing, neural architect search, machine learning  implementation in service industry, optimization, and reinforcement learning.  
 
-Articles (including technical articles on research and data science) I write will be placed in my own [blog](https://houcharlie.github.io/blog/) or on a group research [blog](https://kaledivergence.github.io/) that I've started with a few others.
+Some articles that I have written (including technical articles on research and data science) and the articles I will be writing will be placed in my personal [blog](https://earningpton.github.io/blog/).  
 
-I also like writing [fiction](https://houcharlie.github.io/stories/) and [cooking](https://youtu.be/ATmsipFdZQ4).
+I love to study films and also made a [movie](https://www.imdb.com/title/tt4985650/?ref_=nm_knf_t1), but I also like cooking Thai food.  
 
-Thank you to [Gene Li](https://gxli97.github.io/) for letting me use his template!
+Thank you to [Charlie Hou](https://houcharlie.github.io/) for allowing me to use his template!  
 
-My [resume]({{site.url}}/pdfs/Resume_.pdf).
+My [resume]({{site.url}}/pdfs/Resume_.pdf) is also included for more information.  
 
-If you want to get in touch, you can reach me at:
-[hou.charlie2@gmail.com](mailto:hou.charlie2@gmail.com)
+If you want to contact me or get in touch, I would be elated! Please contact me at:  
+[yomjinda@princeton.edu](mailto:yomjinda@princeton.edu)  
 
 
 
