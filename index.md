@@ -17,7 +17,7 @@ Some articles that I have written (including technical articles on research and 
 
 I love to study films and also made a [movie](https://www.imdb.com/title/tt4985650/?ref_=nm_knf_t1), but I also like cooking Thai food.  
 
-Thank you to [Charlie Hou](https://houcharlie.github.io/) for allowing me to use his template!  
+Thank you to Gene Li for allowing me to use his template!  
 
 My [resume]({{site.url}}/pdfs/Resume_.pdf) is also included for more information.  
 
