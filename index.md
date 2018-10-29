@@ -11,7 +11,7 @@ My name is Woramanot Yomjinda but please call me by my nickname Earning. I am cu
 
 At Princeton, I am working on research projects advised by [Amir Ali Ahmadi](http://aaa.princeton.edu/) and, for independent work, [Warren Powell](http://castlelab.princeton.edu/).  
 
-For some side projects I did, check out my makeshift personal AI [PLEASEBOT](https://mega.nz/#!kUUyAI7Z!yvBH1F6TeJTBKKOvl3lsXEAqRgFAFwFWsoMAv64zrQQ) and also a highly expansive web-based medieval fantasy game [Death-to-the-Goblins](https://earningpton.github.io/Goblins-Game/) 
+For some side projects I did, check out my makeshift personal AI [PLEASEBOT](https://mega.nz/#!kUUyAI7Z!yvBH1F6TeJTBKKOvl3lsXEAqRgFAFwFWsoMAv64zrQQ) (only works for Windows) [Github link](https://github.com/earningpton/pleasebot) and also a highly expansive web-based medieval fantasy game [Death-to-the-Goblins](https://earningpton.github.io/Goblins-Game/) 
 
 My main interests include natural language processing, neural architect search, machine learning  implementation in service industry, optimization, and reinforcement learning.  
 
