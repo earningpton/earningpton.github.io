@@ -10,16 +10,16 @@ Below, I list some relevant coursework I've completed at University of Cambridge
 
 ### Machine Learning and Machine Intelligence
 
-MLMI1 : Introduction to Machine Learning & Spoken Language Processing
-MLMI10: Designing Intelligence Interactive Systems
-MLMI12: Computer Vision
-MLMI13: Natural Language Processing
-MLMI2 : Speech Recognition
-MLMI4 : Advanced Machine Learning
-MLMI6 : Information Theoretic Ideas in Statistical Inference
-MLMI7 : Reinforcement Learning & Decision Making
-4F10  : Deep Learning and Structured Data
-4F13  : Probabilistic Machine Learning
+MLMI1 : Introduction to Machine Learning & Spoken Language Processing  
+MLMI10: Designing Intelligence Interactive Systems  
+MLMI12: Computer Vision  
+MLMI13: Natural Language Processing  
+MLMI2 : Speech Recognition  
+MLMI4 : Advanced Machine Learning  
+MLMI6 : Information Theoretic Ideas in Statistical Inference  
+MLMI7 : Reinforcement Learning & Decision Making  
+4F10  : Deep Learning and Structured Data  
+4F13  : Probabilistic Machine Learning  
 
 ## Princeton University 
 
