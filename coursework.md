@@ -4,7 +4,25 @@ title: Coursework
 permalink: /coursework/
 ---
 
-Below, I list some relevant coursework I've completed at Princeton University.  
+Below, I list some relevant coursework I've completed at University of Cambridge and Princeton University.  
+
+## University of Cambridge
+
+### Machine Learning and Machine Intelligence
+
+MLMI1 : Introduction to Machine Learning & Spoken Language Processing
+MLMI10: Designing Intelligence Interactive Systems
+MLMI12: Computer Vision
+MLMI13: Natural Language Processing
+MLMI2 : Speech Recognition
+MLMI4 : Advanced Machine Learning
+MLMI6 : Information Theoretic Ideas in Statistical Inference
+MLMI7 : Reinforcement Learning & Decision Making
+4F10  : Deep Learning and Structured Data
+4F13  : Probabilistic Machine Learning
+
+## Princeton University 
+
 (Grad) denotes a graduate level course.
 ### Machine Learning/Statistics/Optimization
 
