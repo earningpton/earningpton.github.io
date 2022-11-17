@@ -21,7 +21,7 @@ I love to study films and also made a [movie](https://www.imdb.com/title/tt49856
 
 Thank you to Gene Li for allowing me to use his template!  
 
-My [resume]({{site.url}}/pdfs/Resume_.pdf) is also included for more information.  
+My [resume]({{site.url}}/pdfs/WY_CV_Quant_latest.pdf) is also included for more information.  
 
 If you want to contact me or get in touch, I would be elated! Please contact me at:  
 [yomjinda@alumni.princeton.edu](mailto:yomjinda@alumni.princeton.edu)  
